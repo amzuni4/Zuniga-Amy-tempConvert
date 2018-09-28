@@ -29,7 +29,7 @@ public class ConvertTemp {
        // double cTemp;
        
        double tempF = (9.0/5.0) * tempC + 32.0;
-       System.out.println(tempC + "c is eqaul to " + tempF + "f");
+       System.out.println(tempC + " c is eqaul to " + tempF + " f");
         
         
     }
